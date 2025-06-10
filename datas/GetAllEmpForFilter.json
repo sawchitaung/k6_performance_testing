@@ -1,0 +1,23 @@
+{
+  "gridState": {
+    "page": 1,
+    "pageSize": 4000
+  },
+  "data": {
+    "Type": "true",
+    "View_Type": 0,
+    "Include_Resign": false,
+    "Include_Active": true,
+    "Include_Inactive": false,
+    "Include_ResignMonthOnly": false,
+    "Resign_CustomPeriod": false,
+    "Fromdate": null,
+    "Todate": null,
+    "Resign_DateRange": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Exclude_Resign_DateRange": false,
+    "excludeStartDate": null,
+    "excludeEndDate": null
+  }
+}
